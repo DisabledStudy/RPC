@@ -1,0 +1,7 @@
+//file: CustomFunction.acf
+[
+    implicit_handle (handle_t customFunction_IfHandle)
+] 
+interface CustomFunction
+{
+}

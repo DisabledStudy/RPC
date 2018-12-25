@@ -1,0 +1,9 @@
+[
+uuid(23ddea9f-f113-463c-8ab9-610ccbba13e8),
+version(1.0)
+]
+interface CustomFunction
+{
+	void PrintMessage([in, string] const char * message);
+	void Shutdown(void);
+}
